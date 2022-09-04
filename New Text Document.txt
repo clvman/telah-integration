@@ -1,0 +1,14 @@
+https://byshelb.ng/old_site/manager-app-prod-release.apk
+
+ochaisamuel@outlook.com
+pass123abc
+
+https://api.telah.app/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+
+
+Service Charge:
+/ledger-api/workspaces/EST000000002/ledger-transactions?type=PAYMENT&type=OFFLINE_PAYMENT&status=SUCCESSFUL&ledgerType=AMENITY
+
+
+RECENT TRANSACTION HISTORY:
+/ledger-api/workspaces/{workspaceId}/ledger-transactions?type=PAYMENT&type=OFFLINE_PAYMENT&status=SUCCESSFUL
