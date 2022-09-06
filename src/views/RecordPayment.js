@@ -304,7 +304,7 @@ function RecordPayment(props) {
                 </div>
                 
                 <br />
-                {submitResult409 === true ? <p className="p-error">ayment reference already used</p> : null}
+                {submitResult409 === true ? <p className="p-error">payment reference already used</p> : null}
                 <Button type="primary" className="col-md-12 col-lg-6 record-payment-style record-payment-btn" onClick={onPrimary}>Submit Payment</Button>
               </div>
 

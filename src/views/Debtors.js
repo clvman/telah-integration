@@ -90,7 +90,8 @@ function Debtors (props) {
             'hasOutstanding': true,
             'offset': offset,
             'limit': limit,
-            'query': query
+            'query': query,
+            'type': 'AMENITY'
           }
         }  
       } else {
